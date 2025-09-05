@@ -1,5 +1,5 @@
 // week04/example-2/frontend/main.js
-// harmless comment for update!! :-)
+// harmless comment for update!! :)
 
 document.addEventListener('DOMContentLoaded', () => {
     // API endpoints for the Product and Order services.
